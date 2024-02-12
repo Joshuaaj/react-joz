@@ -2,7 +2,7 @@ version: '3'
 
 services:
   reactjs:
-    image: joshuaaj/dev
+    image: Joshuaaj/dev
     ports:
       - "80:80"
 
